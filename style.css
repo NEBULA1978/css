@@ -47,7 +47,7 @@ p {
 #cabecera3 {
     color: green;
 }
-
+/* ponemos estilos al spam y a una sola palabra */
 .text-danger{
     color:red;
 }
